@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Hola Lucho 
-=======
+
 lo que escribio Luciano
->>>>>>> a3208e9757708ef0718b21fd611197e9edfc7c3c
+
